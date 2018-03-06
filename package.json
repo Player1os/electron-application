@@ -1,0 +1,23 @@
+{
+  "name": "electron-application",
+  "version": "0.0.0",
+  "description": "A boilerplate for Electron application",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "ssh://git@ssh.github.com:443/Player1os/electron-application.git"
+  },
+  "keywords": [
+    "Electron",
+    "application"
+  ],
+  "author": "Osama Hassanein <player1os@gmail.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^1.8.3"
+  }
+}
