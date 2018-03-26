@@ -18,6 +18,7 @@
   "author": "Osama Hassanein <player1os@gmail.com>",
   "license": "ISC",
   "devDependencies": {
-    "electron": "^1.8.3"
+    "electron": "^1.8.3",
+    "electron-reload": "^1.2.2"
   }
 }

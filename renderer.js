@@ -3,9 +3,9 @@
 // All of the Node.js APIs are available in this process.
 
 window.addEventListener('load', () => {
-	console.log('hello world!')
+	console.log('Loading!')
 })
 
 document.body.addEventListener('click', () => {
-	console.log('hello vscode!')
+	console.log('Clicking!')
 })
