@@ -1,0 +1,12 @@
+{
+	"compilerOptions": {
+		"outDir": "build"
+	},
+	"include": [
+		"source/**/*.ts"
+	],
+	"exclude": [
+		"source/**/*.spec.ts"
+	],
+	"extends": "./tsconfig"
+}

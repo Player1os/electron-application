@@ -1,0 +1,17 @@
+# Build generated files.
+build/*
+dist/*
+
+# Configuration files.
+.env
+config.xlsx
+
+# NPM generated files.
+node_modules/*
+npm-debug.log*
+
+# Runtime generated files.
+output/*
+
+# Data files.
+data/*
